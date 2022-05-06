@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Markets | Stefan Driessen</title>
+    <link>https://Stefan-Driessen.github.io/tag/data-markets/</link>
+      <atom:link href="https://Stefan-Driessen.github.io/tag/data-markets/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Markets</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Stefan-Driessen.github.io/media/logo_hu5b47e590c8bab9c73d5883c5430cff63_3132_300x300_fit_lanczos_3.png</url>
+      <title>Data Markets</title>
+      <link>https://Stefan-Driessen.github.io/tag/data-markets/</link>
+    </image>
+    
+    <item>
+      <title>Validated Data Quality Assessment with &#34;Skin in the Game: A Smart Contract Approach</title>
+      <link>https://Stefan-Driessen.github.io/publication/validated-data-quality-assessment-with-skin-in-the-game/</link>
+      <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://Stefan-Driessen.github.io/publication/validated-data-quality-assessment-with-skin-in-the-game/</guid>
+      <description>&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

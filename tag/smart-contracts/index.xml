@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Smart Contracts | Stefan Driessen</title>
+    <link>https://Stefan-Driessen.github.io/tag/smart-contracts/</link>
+      <atom:link href="https://Stefan-Driessen.github.io/tag/smart-contracts/index.xml" rel="self" type="application/rss+xml" />
+    <description>Smart Contracts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Stefan-Driessen.github.io/media/logo_hu5b47e590c8bab9c73d5883c5430cff63_3132_300x300_fit_lanczos_3.png</url>
+      <title>Smart Contracts</title>
+      <link>https://Stefan-Driessen.github.io/tag/smart-contracts/</link>
+    </image>
+    
+    <item>
+      <title>Validated Data Quality Assessment with &#34;Skin in the Game: A Smart Contract Approach</title>
+      <link>https://Stefan-Driessen.github.io/publication/validated-data-quality-assessment-with-skin-in-the-game/</link>
+      <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://Stefan-Driessen.github.io/publication/validated-data-quality-assessment-with-skin-in-the-game/</guid>
+      <description>&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automated Test-Case Generation for Solidity Smart Contracts</title>
+      <link>https://Stefan-Driessen.github.io/publication/automated-test-case-generation-for-solidity-smart-contracts/</link>
+      <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://Stefan-Driessen.github.io/publication/automated-test-case-generation-for-solidity-smart-contracts/</guid>
+      <description>&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Staking Assets Management on Blockchains: Vision and Roadmap</title>
+      <link>https://Stefan-Driessen.github.io/publication/staking-assets-management-on-blockchains/</link>
+      <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://Stefan-Driessen.github.io/publication/staking-assets-management-on-blockchains/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

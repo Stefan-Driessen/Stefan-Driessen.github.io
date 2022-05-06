@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Stefan Driessen</title>
+    <link>https://Stefan-Driessen.github.io/project/</link>
+      <atom:link href="https://Stefan-Driessen.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 31 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Stefan-Driessen.github.io/media/logo_hu5b47e590c8bab9c73d5883c5430cff63_3132_300x300_fit_lanczos_3.png</url>
+      <title>Projects</title>
+      <link>https://Stefan-Driessen.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Collaboration on Interoperable Data Product Standards</title>
+      <link>https://Stefan-Driessen.github.io/project/interoperable-metadata-for-data-products/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://Stefan-Driessen.github.io/project/interoperable-metadata-for-data-products/</guid>
+      <description>&lt;p&gt;Over the past six months, I and some colleagues have collaborated on a project at a large German automotive manufacturer. The project&amp;rsquo;s goal has been to develop a methodology for creating metadata for data products in an internal data exchange market that addresses the challenges of interoperability, reusability, and findability as data products evolve. We&amp;rsquo;ve generated four reports and held an interactive seminar on data product metadata modelling as part of this collaboration. An academic paper describing our insights to a broader audience is currently in the making.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Investigation on low-code blockchain platforms with AstraKode</title>
+      <link>https://Stefan-Driessen.github.io/project/investigation-on-low-code-blockchain-platforms-with-astrakode/</link>
+      <pubDate>Mon, 15 Mar 2021 07:00:47 +0000</pubDate>
+      <guid>https://Stefan-Driessen.github.io/project/investigation-on-low-code-blockchain-platforms-with-astrakode/</guid>
+      <description>&lt;p&gt;In collaboration with the AstraKode platform, we investigated different (low-code) solutions for deploying and customising permissioned blockchains. This ultimately helped the developers at AstraKode to better position their solution and outshine competitors in an emerging market.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

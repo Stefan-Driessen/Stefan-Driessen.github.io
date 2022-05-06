@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Market | Stefan Driessen</title>
+    <link>https://Stefan-Driessen.github.io/tag/data-market/</link>
+      <atom:link href="https://Stefan-Driessen.github.io/tag/data-market/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Market</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Jul 2022 11:15:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Stefan-Driessen.github.io/media/logo_hu5b47e590c8bab9c73d5883c5430cff63_3132_300x300_fit_lanczos_3.png</url>
+      <title>Data Market</title>
+      <link>https://Stefan-Driessen.github.io/tag/data-market/</link>
+    </image>
+    
+    <item>
+      <title>Data Market Design</title>
+      <link>https://Stefan-Driessen.github.io/talk/data-market-design/</link>
+      <pubDate>Fri, 08 Jul 2022 11:15:00 +0000</pubDate>
+      <guid>https://Stefan-Driessen.github.io/talk/data-market-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Market Design</title>
+      <link>https://Stefan-Driessen.github.io/publication/data-market-design/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://Stefan-Driessen.github.io/publication/data-market-design/</guid>
+      <description>&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://Stefan-Driessen.github.io/sitemap.xml
