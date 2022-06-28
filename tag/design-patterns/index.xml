@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design Patterns | Stefan Driessen</title>
+    <link>https://Stefan-Driessen.github.io/tag/design-patterns/</link>
+      <atom:link href="https://Stefan-Driessen.github.io/tag/design-patterns/index.xml" rel="self" type="application/rss+xml" />
+    <description>Design Patterns</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Stefan-Driessen.github.io/media/logo_hu0f08b384ae9a0e8f1cd2640faa7f25f6_439570_300x300_fit_lanczos_3.png</url>
+      <title>Design Patterns</title>
+      <link>https://Stefan-Driessen.github.io/tag/design-patterns/</link>
+    </image>
+    
+    <item>
+      <title>Data Mesh</title>
+      <link>https://Stefan-Driessen.github.io/publication/data-mesh-systematic-grey-literature-study/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://Stefan-Driessen.github.io/publication/data-mesh-systematic-grey-literature-study/</guid>
+      <description>&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
