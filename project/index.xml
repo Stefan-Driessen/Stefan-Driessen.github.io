@@ -5,12 +5,21 @@
     <link>https://Stefan-Driessen.github.io/project/</link>
       <atom:link href="https://Stefan-Driessen.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 31 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Stefan-Driessen.github.io/media/logo_hu0f08b384ae9a0e8f1cd2640faa7f25f6_439570_300x300_fit_lanczos_3.png</url>
       <title>Projects</title>
       <link>https://Stefan-Driessen.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>Discoverable Data Products at KPN</title>
+      <link>https://Stefan-Driessen.github.io/project/data-mesh-investigation-with-kpn/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://Stefan-Driessen.github.io/project/data-mesh-investigation-with-kpn/</guid>
+      <description>&lt;p&gt;In a six month collaboration with major Dutch telecom provider KPN we will address the challenges of creating and maintaining discoverable, interoperable data products. Our goal is to create a tool-suite for easy metadata management in the KPN data catalogue.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Collaboration on Interoperable Data Product Standards</title>
