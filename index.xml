@@ -5,12 +5,20 @@
     <link>https://Stefan-Driessen.github.io/</link>
       <atom:link href="https://Stefan-Driessen.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Stefan Driessen</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Jul 2022 11:15:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 Sep 2022 11:15:00 +0000</lastBuildDate>
     <image>
       <url>https://Stefan-Driessen.github.io/media/logo_hu0f08b384ae9a0e8f1cd2640faa7f25f6_439570_300x300_fit_lanczos_3.png</url>
       <title>Stefan Driessen</title>
       <link>https://Stefan-Driessen.github.io/</link>
     </image>
+    
+    <item>
+      <title>Invited Speaker at Mercedes-Benz</title>
+      <link>https://Stefan-Driessen.github.io/talk/invited-speaker-at-mercedes-benz/</link>
+      <pubDate>Thu, 22 Sep 2022 11:15:00 +0000</pubDate>
+      <guid>https://Stefan-Driessen.github.io/talk/invited-speaker-at-mercedes-benz/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Data Market Design</title>
