@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Metadata | Stefan Driessen</title>
-    <link>https://Stefan-Driessen.github.io/tag/metadata/</link>
-      <atom:link href="https://Stefan-Driessen.github.io/tag/metadata/index.xml" rel="self" type="application/rss+xml" />
-    <description>Metadata</description>
+    <title>Microservice | Stefan Driessen</title>
+    <link>https://Stefan-Driessen.github.io/tag/microservice/</link>
+      <atom:link href="https://Stefan-Driessen.github.io/tag/microservice/index.xml" rel="self" type="application/rss+xml" />
+    <description>Microservice</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 29 Nov 2022 12:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Stefan-Driessen.github.io/media/logo_hu0f08b384ae9a0e8f1cd2640faa7f25f6_439570_300x300_fit_lanczos_3.png</url>
-      <title>Metadata</title>
-      <link>https://Stefan-Driessen.github.io/tag/metadata/</link>
+      <title>Microservice</title>
+      <link>https://Stefan-Driessen.github.io/tag/microservice/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://Stefan-Driessen.github.io/talk/data-product-metadata-management-an-industrial-perspective/</link>
       <pubDate>Tue, 29 Nov 2022 12:00:00 +0000</pubDate>
       <guid>https://Stefan-Driessen.github.io/talk/data-product-metadata-management-an-industrial-perspective/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Invited Speaker at Mercedes-Benz</title>
-      <link>https://Stefan-Driessen.github.io/talk/invited-speaker-at-mercedes-benz/</link>
-      <pubDate>Thu, 22 Sep 2022 11:15:00 +0000</pubDate>
-      <guid>https://Stefan-Driessen.github.io/talk/invited-speaker-at-mercedes-benz/</guid>
       <description></description>
     </item>
     

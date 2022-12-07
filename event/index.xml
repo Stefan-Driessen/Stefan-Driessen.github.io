@@ -5,12 +5,20 @@
     <link>https://Stefan-Driessen.github.io/event/</link>
       <atom:link href="https://Stefan-Driessen.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 Sep 2022 11:15:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 29 Nov 2022 12:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Stefan-Driessen.github.io/media/logo_hu0f08b384ae9a0e8f1cd2640faa7f25f6_439570_300x300_fit_lanczos_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://Stefan-Driessen.github.io/event/</link>
     </image>
+    
+    <item>
+      <title>Data Product Metadata Management: an Industrial Perspective</title>
+      <link>https://Stefan-Driessen.github.io/talk/data-product-metadata-management-an-industrial-perspective/</link>
+      <pubDate>Tue, 29 Nov 2022 12:00:00 +0000</pubDate>
+      <guid>https://Stefan-Driessen.github.io/talk/data-product-metadata-management-an-industrial-perspective/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Invited Speaker at Mercedes-Benz</title>
