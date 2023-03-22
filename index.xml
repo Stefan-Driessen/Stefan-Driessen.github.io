@@ -5,12 +5,20 @@
     <link>https://Stefan-Driessen.github.io/</link>
       <atom:link href="https://Stefan-Driessen.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Stefan Driessen</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 29 Nov 2022 12:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 17 Mar 2023 14:15:00 +0000</lastBuildDate>
     <image>
       <url>https://Stefan-Driessen.github.io/media/logo_hu0f08b384ae9a0e8f1cd2640faa7f25f6_439570_300x300_fit_lanczos_3.png</url>
       <title>Stefan Driessen</title>
       <link>https://Stefan-Driessen.github.io/</link>
     </image>
+    
+    <item>
+      <title>KPN Data Champions Day: Dare to Share</title>
+      <link>https://Stefan-Driessen.github.io/talk/kpn-data-champions-day-dare-to-share/</link>
+      <pubDate>Fri, 17 Mar 2023 14:15:00 +0000</pubDate>
+      <guid>https://Stefan-Driessen.github.io/talk/kpn-data-champions-day-dare-to-share/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Data Product Metadata Management: an Industrial Perspective</title>
