@@ -5,12 +5,21 @@
     <link>https://Stefan-Driessen.github.io/publication-type/2/</link>
       <atom:link href="https://Stefan-Driessen.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Stefan-Driessen.github.io/media/logo_hu0f08b384ae9a0e8f1cd2640faa7f25f6_439570_300x300_fit_lanczos_3.png</url>
       <title>2</title>
       <link>https://Stefan-Driessen.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>SolAR: Automated test-suite generation for solidity smart contracts</title>
+      <link>https://Stefan-Driessen.github.io/publication/solar-automated-test-suite-generation-for-solidity-smart-contracts/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://Stefan-Driessen.github.io/publication/solar-automated-test-suite-generation-for-solidity-smart-contracts/</guid>
+      <description>&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
     
     <item>
       <title>Data Market Design</title>
